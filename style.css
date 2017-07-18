@@ -3,6 +3,10 @@ body {
   margin-left: 100px;
 }
 
+#nav {
+  text-align: center;
+}
+
 nav li {
   display: inline;
 }
